@@ -1,5 +1,5 @@
 '''
-Created on Feb 18, 2019
+Created on Feb 19, 2019
 
 @author: Aasif Multani
 '''
@@ -21,5 +21,3 @@ try:
 except:
     print(sorted(my_list)[0])
     flag =1
-#if (flag!=1):    
-#    print(max(set(my_list), key=my_list.count))   
